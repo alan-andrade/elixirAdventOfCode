@@ -1,5 +1,13 @@
 # Advent of Code in Elixir
 
-Run the solutions with
+Run the specs with
 
 `mix test`
+
+# Running the solutions
+
+`iex -S mix`
+```elixir
+Day1.run()
+Day2.run()
+```

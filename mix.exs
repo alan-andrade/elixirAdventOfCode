@@ -27,8 +27,6 @@ defmodule Aoc.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [
-      {:ibrowse, github: "cmullaparthi/ibrowse", tag: "v4.1.2"},
-    ]
+    []
   end
 end
